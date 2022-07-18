@@ -9928,6 +9928,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9175250071698561389, guid: 1ec212ca5c4074e47b061bfcf2111239, type: 3}
+      propertyPath: onGround
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9175250071698561389, guid: 1ec212ca5c4074e47b061bfcf2111239, type: 3}
       propertyPath: jumpSpeed
       value: 7
       objectReference: {fileID: 0}
